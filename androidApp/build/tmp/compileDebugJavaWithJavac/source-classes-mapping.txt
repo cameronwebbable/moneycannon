@@ -1,0 +1,2 @@
+com/webbengineering/blahblah/androidApp/BuildConfig.java
+ com.webbengineering.blahblah.androidApp.BuildConfig
